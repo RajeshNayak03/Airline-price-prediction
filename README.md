@@ -1,11 +1,11 @@
-Flight Price Prediction using Machine Learning
-Project Overview
+## Flight Price Prediction using Machine Learning
+## Project Overview
 
 This project focuses on predicting airline ticket prices using Machine Learning techniques. The objective is to build a regression model that can estimate flight prices based on various travel-related factors such as airline, source city, destination city, departure time, arrival time, travel class, number of stops, flight duration, and days left before departure.
 
 The project demonstrates the complete Machine Learning workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and prediction.
 
-Dataset Information
+## Dataset Information
 
 The dataset contains flight-related information such as:
 
@@ -25,7 +25,7 @@ Price
 
 The goal is to predict the flight ticket price using the available features.
 
-Project Workflow
+## Project Workflow
 1. Data Collection
 Imported the flight price dataset.
 Loaded the dataset using Pandas.
